@@ -1,4 +1,4 @@
-# 👋 Hello, my friend! Welcome to my page! ✋✋✋
+<div align="center"> # 👋 Hello, my friend! Welcome to my page! ✋✋✋ </div>
 
 
 ## 🧑‍💻 About Me :
